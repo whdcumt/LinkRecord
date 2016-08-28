@@ -15,6 +15,7 @@
 		Thank `you`!please call me `coder`!
 		给文字**加粗**测试：
 		Thank **you**!please call me **coder**!
+		**加粗** or __加粗__
 ####四级标题
 #####五级标题
 ######六级标题
