@@ -13,6 +13,8 @@
 ###三级标题
 		给文字加`高亮`测试:
 		Thank `you`!please call me `coder`!
+		给文字**加粗**测试：
+		Thank **you**!please call me **coder**!
 ####四级标题
 #####五级标题
 ######六级标题
