@@ -2,6 +2,7 @@
 这是一行普通的文本，
 直接回车不能换行<br>
 加入超链接：http://blog.csdn.net/guodongxiaren/article/details/23690801<br>
+　　　测试空格：改行前面加入６个空格。
 要使用\<br>
 ##二级标题
 ###三级标题
