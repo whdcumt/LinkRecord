@@ -8,7 +8,7 @@
 (1)[我要自学网(办公/平面/机械/工控/程序/会计)](http://www.51zxw.net/list.aspx?cid=287)<br>
 (2)[搜狐自媒体-优学教育(CacheCloud开源/redis课程/Mybatis入门实战/Hibernate初识与理解)/maven原理与使用/CORE-JAVA/Spring/前端开发-jquery/javaweb开发课程-http/javaweb开发-linux入门](http://my.tv.sohu.com/user/media/album.do?uid=10306444&page=2)<br>
 (3)[搜狐自媒体-年轻人课堂(绘声绘影/3dMAX人体/视频裁剪/C语言/手绘/java395集)](http://my.tv.sohu.com/user/media/album.do?uid=277114695&page=2)<br>
-(4)[搜狐自媒体-千峰教育(Java基础/HTML与CSS基础/JavaScript/PHP基础/C语言/swift语言/Cocos2D-x/object-C/HTML5/UI/)](http://my.tv.sohu.com/user/media/album.douid=240760748&page=3)<br>
+(4)[搜狐自媒体-千峰教育(Java基础/HTML与CSS基础/JavaScript/PHP基础/C语言/swift语言/Cocos2D-x/object-C/HTML5/UI/)](http://my.tv.sohu.com/user/media/album.do?uid=240760748)<br>
 (5)[搜狐自媒体-魔乐科技(Java8.0/oracle/hibernate/structs/IDEA/shell/xml/jquery/EXTjs/vmware虚拟机/HTML5/TOMCAT/android/javascript/vi命令/sql/MongoDB/SVN/Bootstrap/MYSQL/nodejs/Java Web/GIT/Linux))](http://my.tv.sohu.com/user/media/album.do?uid=244633329&page=4)<br>
 (6)[鑫路历程(C语言/C++语言/数据结构/MFC/Linux/单片机/嵌入式/COCOS2dxAPP开发))](http://www.baojy.com/)<br>
 #博客地址
