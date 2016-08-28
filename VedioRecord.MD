@@ -17,6 +17,8 @@
 		Thank **you**!please call me **coder**!
 		**加粗** or __加粗__
 ####四级标题
+测试文本超链接：<br>
+[我的博客](http://blog.csdn.net/fightingforcv)<br>
 #####五级标题
 ######六级标题
 
