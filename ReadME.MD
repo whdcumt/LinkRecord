@@ -13,6 +13,7 @@
 (5)[搜狐自媒体-魔乐科技(Java8.0/oracle/hibernate/structs/IDEA/shell/xml/jquery/EXTjs/vmware虚拟机/HTML5/TOMCAT/android/javascript/vi命令/sql/MongoDB/SVN/Bootstrap/MYSQL/nodejs/Java Web/GIT/Linux))](http://my.tv.sohu.com/user/media/album.do?uid=244633329&page=4)<br>
 (6)[鑫路历程(C语言/C++语言/数据结构/MFC/Linux/单片机/嵌入式/COCOS2dxAPP开发))](http://www.baojy.com/)<br>
 (7)[杨氏在线教育(VBA/其他值得期待)](http://www.yycollege.com/)<br>
+(8)[excel学习论坛](http://www.excelhome.net/video/excel/)<br>
 #博客地址
 
 
