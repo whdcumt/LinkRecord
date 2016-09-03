@@ -15,6 +15,8 @@
 (7)[杨氏在线教育(VBA/其他值得期待)](http://www.yycollege.com/)<br>
 (8)[excel学习论坛](http://www.excelhome.net/video/excel/)<br>
 #博客地址
-
-
+(1)[Github建站系列教程](http://www.pchou.info/ssgithubPage/2014-07-04-build-github-blog-page-08.html)<br>
+(2)[冰蓝记忆思考的地方](http://lanbing510.info/pages/about.html)<br>
+(3)[Segmentfault](https://segmentfault.com/a/1190000000406011)<br>
+(4)[coding](https://coding.net/u/coding/project?page=2)<br>
 
